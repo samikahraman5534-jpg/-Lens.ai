@@ -1,0 +1,6 @@
+{
+  "name": "Instant Image Finder",
+  "description": "An elegant, fast search utility that instantly finds and displays high-quality images from the web based on any prompt or search queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
